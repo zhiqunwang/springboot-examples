@@ -1,0 +1,3 @@
+org\elvis\wang\compute\service\ComputeService.class
+org\elvis\wang\compute\Application.class
+org\elvis\wang\compute\service\impl\ComputeServiceImpl.class
